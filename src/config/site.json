@@ -1,23 +1,18 @@
 [
   {
+    "name": "个人网站",
+    "url": "https://ziyoustudio.cn",
+    "icon": "fa-brands fa-font-awesome "
+  }, 
+  {
     "name": "博客",
     "url": "https://blog.bsgun.cn",
     "icon": "fa fa-blog"
   },
   {
-    "name": "雨云",
-    "url": "https://www.rainyun.com/Lin_",
-    "icon": "fa fa-cloud "
-  },
-  {
-    "name": "图床",
-    "url": "https://dev.ruom.top",
-    "icon": "fa fa-image"
-  },
-  {
-    "name": "封面",
-    "url": "https://cover.ruom.top",
-    "icon": "fa fa-panorama"
+    "name": "个人网盘",
+    "url": "https://pan.ziyoustudio.cn",
+    "icon": "fa-solid fa-floppy-disk "
   },
   {
     "name": "监测",
@@ -26,7 +21,7 @@
   },
   {
     "name": "图标",
-    "url": "https://icon.ruom.top/",
+    "url": "https://fa6.dashgame.com/",
     "icon": "fa fa-icons"
   }
 ]
