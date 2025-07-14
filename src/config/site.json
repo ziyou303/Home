@@ -15,8 +15,13 @@
     "icon": "fa-solid fa-floppy-disk "
   },
   {
+    "name": "访问统计",
+    "url": "https://cloud.umami.is/share/23PSWZcM9U9CtIA6/home.ziyoustudio.cn",
+    "icon": "fa fa-chart-line"
+  },
+  {
     "name": "监测",
-    "url": "https://status.bsgun.cn",
+    "url": "https://stats.uptimerobot.com/8e8TqVqEp8",
     "icon": "fa fa-chart-line"
   },
   {
